@@ -1,0 +1,38 @@
+#content__head {
+    background: deepskyblue;
+    text-align: center;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-color: lightskyblue;
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 0;
+    margin-bottom: 15px;
+}
+
+#content {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+.article {
+    border-radius: 25px;
+    background: skyblue;
+    border-style: none;
+	margin-bottom: 15px;
+}
+
+table {
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+}

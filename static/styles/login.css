@@ -1,0 +1,46 @@
+#content {
+	background: none;
+}
+
+#form {
+	text-align: center;
+	padding-top: 250px;
+	padding-bottom: 250px;
+}
+
+#login {
+	border-style: solid;
+	border-color: darkblue;
+	border-radius: 40px;
+	background: skyblue;
+	width: 30%;
+	margin-left: 35%;
+}
+
+#login_text {
+	margin-top: 15px;
+	margin-bottom: 5px;
+	font-size: 15px;
+	border-radius: 10px;
+	border-style: none;
+	background: lightblue;
+}
+
+#password {
+	font-size: 15px;
+	margin-bottom: 5px;
+	border-radius: 10px;
+	border-style: none;
+	background: lightblue;
+}
+
+#login_submit {
+	font-size: 15px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border-style: none;
+}
+
+.reg_ref {
+	font-size: 15px;
+}

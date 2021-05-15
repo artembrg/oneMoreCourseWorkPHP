@@ -1,0 +1,36 @@
+#form {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: deepskyblue;
+    border-color: skyblue;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+#content {
+    background: rgba(255, 255, 255, 0);
+}
+
+#new_art {
+    text-align: center;
+}
+
+#title {
+    font-size: 15px;
+    border-style: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#article_content {
+    font-size: 15px;
+}
+
+#new_submit {
+    margin-top: 5px;
+    font-size: 15px;
+    border-style: none;
+    border-radius: 5px;
+}
